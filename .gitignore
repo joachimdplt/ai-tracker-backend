@@ -1,0 +1,43 @@
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build output
+dist/
+build/
+
+# TypeScript
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+*.log.*
+debug.log
+error.log
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# IDE / Tools
+.vscode/
+.idea/
+
+# Expo / RN irrelevant (if backend only)
+.expo/
+.expo-shared/
